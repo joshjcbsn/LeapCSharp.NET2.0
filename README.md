@@ -1,4 +1,4 @@
-"# LeapCSharp.NET2.0" 
+# LeapCSharp.NET2.0 
 
 A couple years ago, Unity said they would be upgrading to .NET 4.0 Framework soon. That day has yet to come. 
 
