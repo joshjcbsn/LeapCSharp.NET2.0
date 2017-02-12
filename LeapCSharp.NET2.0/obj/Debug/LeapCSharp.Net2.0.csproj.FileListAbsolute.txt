@@ -1,0 +1,5 @@
+C:\Users\jacobj6\Desktop\KinectBass\LeapCSharp.NET2.0\LeapCSharp.NET2.0\bin\Debug\LeapCSharp.NET2.0.dll
+C:\Users\jacobj6\Desktop\KinectBass\LeapCSharp.NET2.0\LeapCSharp.NET2.0\bin\Debug\LeapCSharp.NET2.0.pdb
+C:\Users\jacobj6\Desktop\KinectBass\LeapCSharp.NET2.0\LeapCSharp.NET2.0\obj\Debug\LeapCSharp.NET2.0.dll
+C:\Users\jacobj6\Desktop\KinectBass\LeapCSharp.NET2.0\LeapCSharp.NET2.0\obj\Debug\LeapCSharp.NET2.0.pdb
+C:\Users\jacobj6\Desktop\KinectBass\LeapCSharp.NET2.0\LeapCSharp.NET2.0\obj\Debug\LeapCSharp.Net2.0.csprojResolveAssemblyReference.cache
